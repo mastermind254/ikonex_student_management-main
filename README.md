@@ -97,4 +97,4 @@ This project is configured to deploy seamlessly to Cloudflare Workers using the 
 ---
 
 ## 📖 Deep Dive Documentation
-For detailed information on the database schema, Row Level Security (RLS) policies, and the internal TanStack routing structure, please refer to the [Technical Documentation](DOCUMENTATION.md).
+For detailed information on the database schema, Row Level Security (RLS) policies, and the internal TanStack routing structure, please refer to the [Technical Documentation](DOCUMENTATION.md).# ikonex_student_management-main
